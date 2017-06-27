@@ -1,0 +1,14 @@
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\bin\Release\DroneLander.dll
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\bin\Release\DroneLander.pdb
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\obj\Release\DroneLander.MainPage.xaml.g.cs
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\obj\Release\DroneLander.App.xaml.g.cs
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\obj\Release\DroneLander.dll
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\obj\Release\DroneLander.pdb

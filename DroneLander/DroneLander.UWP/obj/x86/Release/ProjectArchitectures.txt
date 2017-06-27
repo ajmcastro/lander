@@ -1,0 +1,2 @@
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander.UWP\DroneLander.UWP.csproj;x86
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\DroneLander.csproj;neutral
