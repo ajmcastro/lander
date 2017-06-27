@@ -12,3 +12,7 @@ C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLa
 C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\obj\Debug\DroneLander.App.xaml.g.cs
 C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\obj\Debug\DroneLander.dll
 C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\obj\Debug\DroneLander.pdb
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\bin\Debug\Microsoft.Azure.Mobile.Analytics.dll
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\bin\Debug\Microsoft.Azure.Mobile.Crashes.dll
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\bin\Debug\Microsoft.Azure.Mobile.dll
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander\obj\Debug\DroneLander.csprojResolveAssemblyReference.cache

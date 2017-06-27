@@ -54,3 +54,9 @@ C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLa
 C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander.Android\bin\Debug\Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander.Android\bin\Debug\Microsoft.Azure.Mobile.Analytics.dll
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander.Android\bin\Debug\Microsoft.Azure.Mobile.Android.Bindings.dll
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander.Android\bin\Debug\Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander.Android\bin\Debug\Microsoft.Azure.Mobile.Crashes.dll
+C:\Users\frisk\OneDrive\Documentos\MicrosoftXamarinMars\Labs\DroneLander\DroneLander\DroneLander.Android\bin\Debug\Microsoft.Azure.Mobile.dll
